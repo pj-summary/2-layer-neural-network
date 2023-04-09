@@ -2,7 +2,7 @@
 
 代码运行需要调用numpy, random, matplotlib, tqdm库。
 
-运行前下载MNIST文件夹，确保与.py或.ipynb文件处于同一路径。
+网站http://yann.lecun.com/exdb/mnist/可下载MNIST数据集，需将4个文件存储于MNIST文件夹，确保与.py或.ipynb文件放在同一路径。
 
 直接运行文件即可最佳参数模型对测试集的分类。
 
